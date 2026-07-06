@@ -1,20 +1,38 @@
 /* 日本語ブログ用 読みやすさ改善 */
 .post-content p {
-  margin-bottom: 1.8em;
+  margin-bottom: 2em;
   line-height: 2.0;
 }
 
 .post-content h2 {
-  margin-top: 3em;
-  margin-bottom: 1em;
+  margin-top: 3.5em;
+  margin-bottom: 1.2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #555;
 }
 
 .post-content h3 {
-  margin-top: 2em;
-  margin-bottom: 0.8em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+.post-content ul,
+.post-content ol {
+  margin-bottom: 2em;
+  padding-left: 1.8em;
 }
 
 .post-content li {
   line-height: 2.0;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.8em;
+}
+
+.post-content blockquote {
+  margin: 2em 0;
+  padding: 1em 1.5em;
+  border-left: 4px solid #888;
+}
+
+.post-content strong {
+  font-weight: bold;
 }
