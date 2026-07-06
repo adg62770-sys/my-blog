@@ -1,0 +1,12 @@
+baseURL = "https://your-site.pages.dev/"
+languageCode = "ja"
+title = "クロコの食と健康ラボ"
+theme = "PaperMod"
+
+[params]
+  description = "食べることが大好きな30代エンジニアが、少しずつ食生活を見直す記録"
+  author = "クロコ"
+
+[params.homeInfoParams]
+  Title = "クロコの食と健康ラボ"
+  Content = "食べることが大好きな30代エンジニアが、少しずつ食生活を見直す記録です。"
