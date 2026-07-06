@@ -1,0 +1,20 @@
+/* 日本語ブログ用 読みやすさ改善 */
+.post-content p {
+  margin-bottom: 1.8em;
+  line-height: 2.0;
+}
+
+.post-content h2 {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+.post-content h3 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+
+.post-content li {
+  line-height: 2.0;
+  margin-bottom: 0.5em;
+}
