@@ -66,6 +66,8 @@ cover:
 
 ---
 
+<div style="font-size: 14px; color: rgb(155, 156, 157);">
+
 **参考にした情報：**
 - [e-ヘルスネット（厚生労働省）「生活習慣病とは？」](https://kennet.mhlw.go.jp/information/information/metabolic/m-05-001.html)
 - [農畜産業振興機構「江戸時代の砂糖食文化」](https://www.alic.go.jp/joho-s/joho07_000217.html)
@@ -73,3 +75,5 @@ cover:
 - [植物油 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%89%A9%E6%B2%B9)
 - [脚気の発生：農林水産省](https://www.maff.go.jp/j/meiji150/eiyo/01.html)
 - [日本食文化の醤油を知る「江戸庶民の食事｜江戸と白米」](https://www.eonet.ne.jp/~shoyu/mametisiki/reference-15b.html)
+
+</div>

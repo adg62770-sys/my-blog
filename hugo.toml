@@ -3,6 +3,9 @@ languageCode = "ja"
 title = "クロコの食と健康ラボ"
 theme = "PaperMod"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = "食べることが大好きな30代エンジニアが、少しずつ食生活を見直す記録"
   author = "クロコ"
