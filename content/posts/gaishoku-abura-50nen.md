@@ -46,6 +46,10 @@ tags: ["外食", "ファミレス", "ファストフード", "油", "食生活"]
 
 私が油から見直し始めたのも、そのためです。外食を否定したいわけではありません。家で引く油も、外で食べる料理の油も、どちらも当たり前の中にあります。まずはその当たり前に疑問を持つと、摂取する油の量に驚くだろう。
 
+---
+
+<div style="font-size: 14px; color: rgb(155, 156, 157);">
+
 **参考にした情報：**
 - [日本経済新聞「日本初のファミレス、すかいらーく1号店開店」](https://www.nikkei.com/article/DGKKZO61186920W0A700C2EAC000/)
 - [すかいらーくグループ「歴史・沿革」](https://corp.skylark.co.jp/about/history/)
@@ -53,3 +57,5 @@ tags: ["外食", "ファミレス", "ファストフード", "油", "食生活"]
 - [マクドナルド公式「マクドナルドの歩み」](https://www.mcdonalds.co.jp/company/outline/history/)
 - [厚生省「国民栄養調査」1988年結果の概要（国立健康・栄養研究所）](https://www.nibn.go.jp/eiken/chosa/kokumin_eiyou/doc_year/1988/1988_kek01.pdf)
 - [厚生労働省「国民健康・栄養調査」令和5年](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r5-houkoku_00001.html)
+
+</div>
